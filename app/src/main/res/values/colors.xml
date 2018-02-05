@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#394a5e</color>
+    <color name="colorPrimaryDark">#1f2b39</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorSub">#253242</color>
+    <color name="colorTrans">#6bffffff</color>
+    <color name="trans">#dfdfdf</color>
+    <color name="darkGrayColor">#d8d5d5</color>
+    <color name="colorSubTrans">#82253242</color>
+    <color name="greenBetter">#7f09bf58</color>
+    <color name="greenTransaction">#7f09bf58</color>
+    <color name="orange">#f08000</color>
+    <color name="orangeTransport">#9aff8800</color>
+    <color name="green">#7f09bf58</color>
+    <color name="lightGray">#6adfdfdf</color>
+    <color name="colorsSub">#e3253242</color>
+    <color name="colorSubDark">#1f2b39</color>
+    <color name="blue_btn_bg_color">#7f09bf58</color>
+    <color name="blue_btn_bg_pressed_color">#7f09bf30</color>
+    <color name="BlackTransaction">#31000000</color>
+    <color name="BlackReal">#ce000000</color>
+</resources>
